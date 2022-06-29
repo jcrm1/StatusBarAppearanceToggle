@@ -1,5 +1,5 @@
 # StatusBarAppearanceToggle
-Mac app to add a Status Bar icon you can click to change between light and dark mode.  
+Mac app to add a Status Bar icon you can click to change between light and dark mode. Right-click on icon to close.  
 ONLY WORKS ON macOS/OS X.  
 Uses AppleScript/osascript.  
 I highly recommend using a jar-to-app-bundle packager, but it can be run from the command line without issues.  
